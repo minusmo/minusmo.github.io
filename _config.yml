@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Mo's LifeLog"
 title_separator          : "-"
-subtitle                 : "Ver 1.0.0"
+subtitle                 : "Ver 1.0.2"
 name                     : "HOJOON EUM"
 description              : "Hojoon Eum's blog"
 url                      : "https://minusmo.github.io/"
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bldolphin96@gmail.com"
+      # url: "mailto:bldolphin96@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -210,6 +210,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -231,22 +232,22 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -271,10 +272,24 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_label: "TableOfContents"
 
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: category
+    values:
       author_profile: true
