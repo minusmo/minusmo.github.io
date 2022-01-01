@@ -5,8 +5,6 @@ category: programming language
 tags: javascript
 ---
 
-# Javascript Remind 1
-
 **Javascript The Definitive Guide - David Flanagan** 중
 
 여기서는 위 서적에서 발견한 몇가지의  
@@ -30,7 +28,8 @@ javascript의 문자열은 유니코드(UTF-16) 문자의 집합이다.
 ## 3.2 Numbers  
 javascript의 Number 자료형은 정수와 실수(근사)를 표현한다.  
 자바스크립트는 64-bit 부동소수점 표현방식으로, IEEE 754 standard에 정의되어 있다.  
-이는 실수 표현 범위가 최대 +-1.7976931348623157 * 10 ** 308, 최소 +-5 * 10 ** -324  
+이는 실수 표현 범위가 최대 +-1.7976931348623157 * 10 ** 308,  
+최소 +-5 * 10 ** -324  
 까지 임을 의미한다.  
   
 자바스크립트는 정확히 +-9,007,199,254,740,992(+-2 ** 53) 범위의 정수를 표현할 수 있다.  
