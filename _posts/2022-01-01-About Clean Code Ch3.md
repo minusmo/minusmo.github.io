@@ -2,7 +2,7 @@
 layout: posts
 title: About Clean Code Ch3
 category: programming
-tags: programmingPhilosophy
+tags: programmingPhilosophy OOP
 ---
 
 # Clean Code에 대하여

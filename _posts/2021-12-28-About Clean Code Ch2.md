@@ -2,7 +2,7 @@
 layout: posts
 title: About Clean Code Ch2
 category: programming
-tags: programmingPhilosophy
+tags: programmingPhilosophy OOP
 ---
 
 Updated at 2021-12-30
@@ -50,12 +50,11 @@ Updated at 2021-12-30
 
 9. 메소드 이름  
    메소드 이름은 동사 혹은 동사구를 사용하라. 접근자, 변경자, 조건자는 각각 **_get, set, is_** 를 사용하라.(javabean 표준에 의거) 생성자를 중복 정의할 때에는 정적 팩토리 메소드를 사용하라. 이 메소드 이름은 인수를 설명하는 이름으로하라. 예를 들어,
-
-```java
-Complex fulcrumPoint = Complex.FromRealNumber(23.0);
-is better than
-Complex fulcrumPoint = new Complex(23.0);
-```
+   ```java
+   Complex fulcrumPoint = Complex.FromRealNumber(23.0);
+   is better than
+   Complex fulcrumPoint = new Complex(23.0);
+   ```
 
 10. 기발한 이름을 피하라.  
     이름은 명료해야 한다. 의도를 솔직하고 분명하게 표현하라.
