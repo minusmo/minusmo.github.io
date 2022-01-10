@@ -24,7 +24,7 @@ tags: AI DeepLearning NeuralNetworks
 시각으로 전해진 정보가 뉴런으로 전달 되고, 이 뉴런이 또 다른 뉴런을 자극(활성화)한다.
 처음에는 단순히 서로 다른 정보의 집합일 뿐이었던 것이, 위의 과정을 수없이 거쳐 추상화와 정보의 정제를 통한 개체의 인식이 완성되는 것이다.  
 
-![Neural Networks](../assets/images/NN.jpeg)
+![Neural Networks](/assets/images/NN.jpeg)
 
 위 그림처럼 입력이 1차원 배열이라고 생각해보자.  
 이는 사람의 뇌에서 처음 정보를 전달 받는 뉴런의 역할을 한다.  
@@ -45,7 +45,7 @@ n개로 나누었을 때 첫번째, 마찬가지로 두 번째 뉴런은 그 n�
 그런데 이 때, 상황에 따라서 뉴런이 활성화되어야 하는 조건이 다르므로,  
 이를 반영하기 위해 __*역치(Bias)*__ 를 도입한다.  
 
-![Neural Networks calculation](../assets/images/NN2.png)
+![Neural Networks calculation](/assets/images/NN2.png)
 
 역치(bias)값이 중요한 이유는 바로 인공 신경망의 기본 이론에서 찾아볼 수 있다.  
 뉴런이 다른 뉴런으로 부터 활성화 되는 것은 무조건적으로 이루어지지 않는다.  
@@ -62,7 +62,7 @@ Sigmoid 함수에서는 0 주변에서 함수값(뉴런의 활성화 정도)가 
 
 최근에는 __*ReLU*__ 함수를 많이 사용하는데, 이는 뉴런의 학습 방법을 더 정확히 반영한 것이다. ReLU 함수는 Sigmoid 함수처럼 함수값이 부드럽게 증가하지 않는다.  
 
-![ReLU function](../assets/images/NN4.jpeg)
+![ReLU function](/assets/images/NN4.jpeg)
 
 특정값 이후부터 함수값이 일정한 기울기로 증가하게 되는데,  
 이러한 모습이 실제 뉴런이 활성화 되는 방식과 유사하다고 한다.  
