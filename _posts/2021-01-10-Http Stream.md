@@ -38,7 +38,7 @@ __*WritableStream*__ 을 이용하여 stream에 데이터를 쓰는 것도 가�
 **chunk** 는 ___1byte가 될 수도 있고, 크기가 큰 _typed array_ 일 수도 있습니다.
 stream 하나는 서로 다른 크기와 타입의 chunk들을 포함할 수 있습니다.  
 
-![Http Stream 1](/assets/images/httpStream1.png)
+![Http Stream 1](/assets/images/httpStream1.png)  
 _출처: MDN_  
 
 stream에 chunk가 들어가는 것을 __*enqueued*__ 된다고 한다.  
