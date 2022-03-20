@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: About Algorithm2
+title: About Algorithm3
 category: algorithm
 tags: ps algorithm D&C
 ---
