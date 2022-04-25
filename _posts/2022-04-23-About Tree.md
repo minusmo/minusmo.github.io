@@ -5,11 +5,6 @@ category: dataStructure
 tags: tree graph
 ---
 
-# Tree에 대하여
-
-Created: April 23, 2022 11:32 PM
-Tags: Graph, Tree
-
 ## Tree는
 
 다음을 만족하는 한개 이상의 노드의 유한 집합이다.
