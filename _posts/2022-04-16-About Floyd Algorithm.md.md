@@ -2,7 +2,7 @@
 layout: posts
 title: About Floyd Algorithm
 category: algorithm
-tags: graph algorithm DP
+tags: graph algorithm DynamicProgramming
 ---
 
 ## All Pairs Shortest Path (APSP) Problem

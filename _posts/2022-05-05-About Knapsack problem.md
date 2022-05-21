@@ -2,7 +2,7 @@
 layout: posts
 title: About KnapSack problem
 category: algorithm
-tags: greedy DP
+tags: greedy DynamicProgramming
 ---
 
 ## Why Greedy algorithm important?

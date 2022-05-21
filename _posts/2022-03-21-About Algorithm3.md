@@ -2,7 +2,7 @@
 layout: posts
 title: About Algorithm3
 category: algorithm
-tags: ps algorithm D&C
+tags: problemSolving algorithm Divide&Conquer
 ---
 
 # 알고리즘 03 Divide and Conquer: Quick Sort

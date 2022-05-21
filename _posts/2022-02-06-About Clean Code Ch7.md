@@ -2,7 +2,7 @@
 layout: posts
 title: About Clean Code Ch7
 category: programming
-tags: programmingPhilosolphy exception OOP
+tags: programmingPhilosolphy exceptionHandling OOP
 ---
 
 # Clean Code에 대하여

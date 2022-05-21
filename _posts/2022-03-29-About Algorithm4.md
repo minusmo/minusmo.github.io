@@ -2,7 +2,7 @@
 layout: posts
 title: About Algorithm4
 category: algorithm
-tags: ps algorithm DP
+tags: problemSolving algorithm DynamicProgramming
 ---
 
 # 알고리즘 04 Dynamic Programming

@@ -2,7 +2,7 @@
 layout: posts
 title: About Algorithm2
 category: algorithm
-tags: ps algorithm D&C
+tags: problemSolving algorithm Divide&Conquer
 ---
 
 # 알고리즘 02 Divide and Conquer

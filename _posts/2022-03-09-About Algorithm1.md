@@ -2,7 +2,7 @@
 layout: posts
 title: About Algorithm1
 category: algorithm
-tags: ps algorithm
+tags: problemSolving algorithm
 ---
 
 # 알고리즘 이란

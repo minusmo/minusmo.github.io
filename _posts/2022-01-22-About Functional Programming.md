@@ -2,7 +2,7 @@
 layout: posts
 title: About Functional Programming
 category: programming
-tags: programmingParadigm FP
+tags: programmingParadigm functionalProgramming
 ---
 
 ---

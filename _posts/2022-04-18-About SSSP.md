@@ -2,7 +2,7 @@
 layout: posts
 title: About SSSP
 category: algorithm
-tags: graph algorithm DP greedy
+tags: graph algorithm DynamicProgramming greedy
 ---
 
 # Single Source Shortest Path Problem(SSSP)
