@@ -5,6 +5,7 @@ category: dataStructure
 tags: tree graph
 ---
 
+_updated at 2022-05-31_
 ## Tree는
 
 다음을 만족하는 한개 이상의 노드의 유한 집합이다.
@@ -15,8 +16,9 @@ tags: tree graph
 
 트리는 이처럼 **recursive definition** 을 가지고 있다는 것을 주목하라.
 
-T1, ... Tn은 반드시 **disjoint set** 이어야 하기 때문에, 서브 트리들은 **절대로** 서로 연결되면 안된다.
-이말은, 다른 노드를 통해 교차해서도 안된다는 것이다.
+T1, ... Tn은 반드시 **disjoint set** 이어야 하기 때문에, __공통된 부분집합__ 이 있어서는 안된다.  
+__disjoint set(서로소 집합)__ 은 노드가 연결되느냐 아니냐의 문제가 아니다.(착각하기 쉽다.) ___서로 다른 두 집합의 공통 원소가 없는 것___ 이 __서로소 집합__ 이다. 따라서 루트 노드로 연결되는 링크가 있어도, 자식 노드가 루트 노드가 되는 서브트리들이 서로소 집합이라면 문제가 없다.  
+[Disjoint Set Data Structure in Wikipedia](https://ko.wikipedia.org/wiki/%EC%84%9C%EB%A1%9C%EC%86%8C_%EC%A7%91%ED%95%A9_%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)
 
 또한 모든 트리의 노드들은 다른 어떤 서브트리의 루트임을 시사한다.
 
