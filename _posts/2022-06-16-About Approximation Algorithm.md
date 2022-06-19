@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: About NP Complete
+title: About Approximation Algorithm
 category: algorithm
 tags: ProblemClassification computation NP Approximation
 ---
@@ -9,21 +9,21 @@ updated at 2022-06-17
 
 Approximation Algorithm은 이론적 증거를 바탕으로 NP-C, NP-H 문제에 대해서 적용할 수 있다.
 
-## Approximation Algorithm의 특성
+# Approximation Algorithm의 특성
 
 근사치를 계산하는 알고리즘의 개발은 쉽다.(suboptimal solution)
 
-### 그렇다면 얼마나 optimal solution에 가까운가? 를 제시.
+## 그렇다면 얼마나 optimal solution에 가까운가? 를 제시.
 
 1. mathematically: bound theorem
 2. empirically: accuracy, relavancy
 
-### 또한 얼마나 빠른가(효율적인가)? 를 제시.
+## 또한 얼마나 빠른가(효율적인가)? 를 제시.
 
 1. mathematically: Time Complexity. T(n) = polynomial
 2. emprically: execution time, running time(in seconds)
 
-## Approximation algorithm의 개발 접근법
+### Approximation algorithm의 개발 접근법
 
 대부분 휴리스틱(그리디) 접근을 사용한다.
 
@@ -42,11 +42,11 @@ ex) approximation solution < optimal \* 2
 Theorem을 통해 bound를 제시할 수 있으면 좋다.
 더 좋은 bound 일 수록 더 좋다!
 
-## Approximation의 예시들
+# Approximation의 예시들
 
 TSP, Bin Packing problem
 
-### TSP
+## TSP
 
 MST를 이용하여 TSP를 해결.
 
@@ -77,7 +77,7 @@ cost(full walk on MST) < 2 \* cost(mst.path)
 
 ⇒ cost(opt.path) < 2 \* cost(opt) proof!
 
-### Bin Packing problem
+## Bin Packing problem
 
 - Bin Packing problem: NP-Hard
 - unit-size의 가방을 최소한으로 하여 주어진 아이템들을 모두 가방에 담는 문제!
