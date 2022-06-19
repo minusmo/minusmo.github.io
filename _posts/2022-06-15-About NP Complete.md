@@ -3,6 +3,8 @@ layout: posts
 title: About NP Complete
 category: algorithm
 tags: ProblemClassification theory computation NP
+toc: true
+toc_label: Contents
 ---
 
 CS에서 대부분의 중요한 문제는 NP에 속해있다.
