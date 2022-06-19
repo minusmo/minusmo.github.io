@@ -3,6 +3,8 @@ layout: posts
 title: About Approximation Algorithm
 category: algorithm
 tags: ProblemClassification computation NP Approximation
+toc: true
+toc_label: "Contents"
 ---
 
 updated at 2022-06-17
