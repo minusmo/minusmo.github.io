@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Deep Learning 1
 category: DeepLearning
 tags: AI DeepLearning NeuralNetworks
+toc: true
+toc_label: "Contents"
 ---
 
 # 딥러닝의 기본 개념 1  

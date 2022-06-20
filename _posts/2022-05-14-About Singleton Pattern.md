@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Singleton Pattern
 category: designPattern
 tags: OOP
+toc: true
+toc_label: "Contents"
 ---
 
 ## 싱글톤은

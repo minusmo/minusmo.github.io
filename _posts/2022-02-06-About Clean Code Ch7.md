@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Clean Code Ch7
 category: programming
 tags: programmingPhilosolphy exceptionHandling OOP
+toc: true
+toc_label: "Contents"
 ---
 
 # Clean Code에 대하여

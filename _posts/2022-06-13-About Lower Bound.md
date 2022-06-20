@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Lower Bound
 category: algorithm
 tags: lowerBound computation
+toc: true
+toc_label: "Contents"
 ---
 
 ## Lower Bound of Algorithms

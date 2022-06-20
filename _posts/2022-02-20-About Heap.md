@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Heap
 category: dataStructure
 tags: algorithm sorting
+toc: true
+toc_label: "Contents"
 ---
 
 # Heap?

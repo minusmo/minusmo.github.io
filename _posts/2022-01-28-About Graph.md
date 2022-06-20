@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Graph
 category: dataStructure
 tags: dataStructure algorithm
+toc: true
+toc_label: "Contents"
 ---
 
 ## 그래프란?

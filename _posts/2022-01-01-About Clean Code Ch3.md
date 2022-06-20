@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Clean Code Ch3
 category: programming
 tags: programmingPhilosophy OOP
+toc: true
+toc_label: "Contents"
 ---
 
 # Clean Code에 대하여

@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Greedy
 category: algorithm
 tags: graph algorithm greedy
+toc: true
+toc_label: "Contents"
 ---
 
 **_DP gives optimal solution but not practical in fields_**

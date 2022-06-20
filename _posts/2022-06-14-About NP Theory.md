@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About NP Theory
 category: algorithm
 tags: ProblemClassification theory computation
+toc: true
+toc_label: "Contents"
 ---
 
 ex) 30PB 크기의 데이터는 _Computationally Prohibited_ 된다.

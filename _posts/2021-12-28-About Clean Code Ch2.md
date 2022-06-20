@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Clean Code Ch2
 category: programming
 tags: programmingPhilosophy OOP
+toc: true
+toc_label: "Contents"
 ---
 
 Updated at 2021-12-30

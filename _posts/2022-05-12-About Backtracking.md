@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Backtracking
 category: algorithm
 tags: DFS Backtracking graph
+toc: true
+toc_label: "Contents"
 ---
 
 ## Brute-Force in Graph?

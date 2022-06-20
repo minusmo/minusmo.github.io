@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: About NP Complete
 category: algorithm
 tags: ProblemClassification theory computation NP

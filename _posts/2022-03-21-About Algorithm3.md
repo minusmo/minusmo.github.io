@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Algorithm3
 category: algorithm
 tags: problemSolving algorithm Divide&Conquer
+toc: true
+toc_label: "Contents"
 ---
 
 # 알고리즘 03 Divide and Conquer: Quick Sort

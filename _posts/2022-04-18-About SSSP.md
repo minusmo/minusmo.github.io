@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About SSSP
 category: algorithm
 tags: graph algorithm DynamicProgramming greedy
+toc: true
+toc_label: "Contents"
 ---
 
 # Single Source Shortest Path Problem(SSSP)

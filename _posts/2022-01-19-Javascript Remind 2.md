@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: Javascript Remind 2
 category: programmingLanguage
 tags: javascript
+toc: true
+toc_label: "Contents"
 ---
 
 updated at 2022-01-21

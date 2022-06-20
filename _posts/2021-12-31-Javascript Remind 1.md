@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: Javascript Remind 1
 category: programmingLanguage
 tags: javascript
+toc: true
+toc_label: "Contents"
 ---
 
 **Javascript The Definitive Guide - David Flanagan** 중

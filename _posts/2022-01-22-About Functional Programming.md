@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Functional Programming
 category: programming
 tags: programmingParadigm functionalProgramming
+toc: true
+toc_label: "Contents"
 ---
 
 ---

@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Graph Theory
 category: algorithm
 tags: graph algorithm theory
+toc: true
+toc_label: "Contents"
 ---
 
 ## 알고리즘 디자인의 과정(솔루션을 도출하는 과정)

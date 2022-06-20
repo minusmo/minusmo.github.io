@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About SOLID L & I & D
 category: programming
 tags: programmingPhilosophy OOP
+toc: true
+toc_label: "Contents"
 ---
 
 ## SOLID: 객체 지향 설계의 다섯 가지 원칙

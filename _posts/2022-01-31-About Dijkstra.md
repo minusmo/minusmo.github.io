@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Dijkstra
 category: algorithm
 tags: algorithm graph
+toc: true
+toc_label: "Contents"
 ---
 
 ## 다익스트라 알고리즘이란?  

@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Clean Code Ch5
 category: programming
 tags: programmingPhilosophy
+toc: true
+toc_label: "Contents"
 ---
 
 # Clean Code에 대하여

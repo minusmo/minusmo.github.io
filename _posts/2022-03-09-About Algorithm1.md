@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Algorithm1
 category: algorithm
 tags: problemSolving algorithm
+toc: true
+toc_label: "Contents"
 ---
 
 # 알고리즘 이란

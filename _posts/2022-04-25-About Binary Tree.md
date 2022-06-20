@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Binary Tree
 category: dataStructure
 tags: tree graph
+toc: true
+toc_label: "Contents"
 ---
 
 ## 이진 트리의 특징들

@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About KnapSack problem
 category: algorithm
 tags: greedy DynamicProgramming
+toc: true
+toc_label: "Contents"
 ---
 
 ## Why Greedy algorithm important?

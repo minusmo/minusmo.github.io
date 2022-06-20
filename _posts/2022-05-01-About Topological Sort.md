@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Topological Sort
 category: algorithm
 tags: graph DAG
+toc: true
+toc_label: "Contents"
 ---
 
 ## Topological Sort

@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Tree
 category: dataStructure
 tags: tree graph
+toc: true
+toc_label: "Contents"
 ---
 
 _updated at 2022-05-31_

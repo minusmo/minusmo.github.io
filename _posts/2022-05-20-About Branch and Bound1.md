@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Branch and Bround
 category: algorithm
 tags: BFS BranchAndBound
+toc: true
+toc_label: "Contents"
 ---
 
 ## Promising function = Bound function

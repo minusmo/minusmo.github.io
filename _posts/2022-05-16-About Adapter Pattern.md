@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Adapter Pattern
 category: designPattern
 tags: OOP
+toc: true
+toc_label: "Contents"
 ---
 
 ## 어댑터는

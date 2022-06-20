@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: Http Stream
 category: WebAPI
 tags: javascript network
+toc: true
+toc_label: "Contents"
 ---
 
 ## Streams API

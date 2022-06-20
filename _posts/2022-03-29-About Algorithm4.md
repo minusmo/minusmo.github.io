@@ -1,8 +1,9 @@
 ---
-layout: posts
 title: About Algorithm4
 category: algorithm
 tags: problemSolving algorithm DynamicProgramming
+toc: true
+toc_label: "Contents"
 ---
 
 # 알고리즘 04 Dynamic Programming
