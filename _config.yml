@@ -25,7 +25,7 @@ url                      : "https://minusmo.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "minusmo/minusmo.github.io"
 teaser                   : "/assets/images/fallback_img.png"
-logo                     : "/assets/images/blog_logo.png"
+logo                     : # path of image logo
 masthead_title           : "MonoLog."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
