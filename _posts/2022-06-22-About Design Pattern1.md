@@ -1,12 +1,10 @@
 ---
-title: About Adapter Pattern
+title: About Design Pattern1
 category: designPattern
 tags: OOP 
 toc: true
 toc_label: "Contents"
 ---
-
-# Introduction
 
 # 디자인 패턴이란
 
