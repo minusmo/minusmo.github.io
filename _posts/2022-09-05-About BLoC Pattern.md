@@ -6,10 +6,6 @@ toc: true
 toc_label: "Contents"
 ---
 
-# BLoC Pattern
-
-Tags: designPattern, flutter
-
 # BLoC 란?
 
 BLoC는 Presentation(view) 와 Logic 간의 긴밀한 결합 없이 개발자가 앱 전체에서 상태를 효율적이고 편리하게 관리할 수 있도록 하는 디자인 패턴입니다. 또한 여러 위젯에서 동일한 논리의 재사용성을 목표로합니다. *2018년 Google I/O에서 Google에 의해 처음 언급된 이후 Flutter 앱 개발의 상태 관리 솔루션과 관련하여 많은 개발자의 사실상 표준이 되었습니다.*
