@@ -71,9 +71,9 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "google-site-verification=9P7Y2hlZXUqlmSQhlo95zYTECwPcDA_ejGSpj5iMxbU"
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "6092d719f7a8b52cf3fd044681dd9cbccbe8f80d"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -94,10 +94,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-WY5QB8G2RZ"
+    anonymize_ip         : false
 
 
 # Site Author
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:bldolphin96@gmail.com"
+      url: "mailto:bldolphin96@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -120,6 +120,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/bldolphin96/"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hojoon-eum-99731912a/"
 
 # Site Footer
 footer:
@@ -130,6 +133,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/bldolphin96/"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hojoon-eum-99731912a/"
 
 
 # Reading Files
@@ -166,7 +172,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: "UTF-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
