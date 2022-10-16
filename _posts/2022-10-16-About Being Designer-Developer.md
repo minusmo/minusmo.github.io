@@ -13,7 +13,6 @@ toc_label: "Contents"
 **사용자에게 지각되는 가치**
 
 이것은 기능적인 가치와는 다릅니다.
-
 기능적 가치가 아무리 좋아도, 지각되는 가치가 적다면, 사용자를 끌어들이기 어려울 것입니다.
 
 명심할 것은, *지각되는 가치가 아무리 좋아도,*
@@ -108,4 +107,4 @@ toc_label: "Contents"
 
 디자인 기초, 색 이론, 타이포그래피, 심리학, 사회학에 대해 배우고 앱에 적용하세요. 
 
-![Being Designer-Developer](https://www.youtube.com/watch?v=MIepaf7ks40&ab_channel=Flutter)
+[Being Designer-Developer](https://www.youtube.com/watch?v=MIepaf7ks40&ab_channel=Flutter)
