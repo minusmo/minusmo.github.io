@@ -267,6 +267,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      analytics: true
 
   - scope:
       path: ""
@@ -274,15 +275,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+      analytics: true
 
   - scope:
       path: ""
       type: tag
     values:
       author_profile: true
+      analytics: true
 
   - scope:
       path: ""
       type: category
     values:
       author_profile: true
+      analytics: true
