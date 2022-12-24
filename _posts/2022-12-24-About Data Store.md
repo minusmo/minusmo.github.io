@@ -1,7 +1,7 @@
 ---
 title: About Data Store
-category: Architechture
-tags: frontend architechture
+category: Architecture
+tags: frontend architecture
 toc: true
 toc_label: "Contents"
 ---
